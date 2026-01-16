@@ -1,6 +1,7 @@
 user_input = input("Enter a list of numbers separated by spaces: ")
 numbers = list(map(int, user_input.split()))
 
+print (type(numbers))
 def find_second_largest(nums):
     if len(nums) < 2:
         return -1
