@@ -1,0 +1,4 @@
+import numpy as np
+arr = np.arange(13)
+res = np.array_split(arr, 4)
+print(res)
