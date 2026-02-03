@@ -24,3 +24,4 @@ def print_dict(key, dict):
         print(f"Marks of {key} is {dict[key]}")
     else:
         print("-1")
+
