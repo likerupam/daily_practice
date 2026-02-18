@@ -1,4 +1,5 @@
 import performance
+
 @performance.measure_performance
 def missing_element(arr):
     n = len(arr) + 1
