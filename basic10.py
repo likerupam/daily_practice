@@ -1,4 +1,5 @@
 #User function Template for python3
+
 a = int(input())
 n = int(input())
 r = 2
