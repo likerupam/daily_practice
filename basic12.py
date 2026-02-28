@@ -1,5 +1,6 @@
 # Python code to demonstrate a dictionary
 # with multiple inputs in a key.
+
 import random as rn
 
 # creating an empty dictionary
