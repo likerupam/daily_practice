@@ -28,3 +28,4 @@ del student_marks["Alice"]
 # Step 7: Display dictionary after deletion
 print("\nFinal Student Marks:")
 print(student_marks)
+
