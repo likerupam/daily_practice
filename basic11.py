@@ -17,7 +17,6 @@ def del_dict(query, dict):
     else:
         print("-1")
 
-
 # print marks of required name
 def print_dict(key, dict):
     if key in dict:
