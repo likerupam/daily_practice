@@ -4,4 +4,3 @@ def double_string_number(num):
 # Examples
 print(double_string_number("5"))   # Output: 10
 print(double_string_number("12"))  # Output: 24
-
