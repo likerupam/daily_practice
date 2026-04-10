@@ -24,3 +24,4 @@ def print_dict(key, dict):
     else:
         print("-1")
 
+
