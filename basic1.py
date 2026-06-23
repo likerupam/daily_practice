@@ -7,3 +7,4 @@ c = input()
 print (str(a)*int(a)+c+str(b)*int(b))
 
 
+
